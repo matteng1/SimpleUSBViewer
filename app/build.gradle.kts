@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "se.snattra.simpleusbviewer"
+    namespace = "com.example.simpleusbviewer"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "se.snattra.simpleusbviewer"
+        applicationId = "com.example.simpleusbviewer"
         minSdk = 25
         targetSdk = 35
         versionCode = 1
